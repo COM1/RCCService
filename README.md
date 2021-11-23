@@ -33,5 +33,5 @@ idk what to say but ummmmmmmmmmmm yeah.<br><br>
 - Press Enter and leave the small windows you used to change from "jne" to "jmp"
 - It should look something like this:<br>
 ![image](https://user-images.githubusercontent.com/92669198/143044964-4886fa06-bb1e-4b23-ae65-4442b8a8d586.png)<br>
-- Done!
+- Patch it and done!
 # STILL UNFINISHED!
