@@ -71,7 +71,9 @@ print(game:GetService("ThumbnailGenerator"):Click("PNG", 1920, 1920, true))
 end
 ```
 As a side note, hosting game servers are basically useless since you can't join them on any clients. This is basically something fun to mess around with. Unless you decide to use it as a thumbnail renderer for your revival like Dshoe10 and I do.
-Also can I get some thumbs up pls? I've had like three people DM me on Discord thanking me for this along with asking questions, but I've had no one rating the post.
-
+Also can I get some thumbs up pls? I've had like three people DM me on Discord thanking me for this along with asking questions, but I've had no one rating the post.<br><br>
+# Archive of the RCCs in this repo:
+https://web.archive.org/web/2019*/http://setup.roblox.com/version-d758ba82bfa54461-RCC-RobloxAB1FEC8F0BB9C736E1454364EA6D7D38.exe
+https://web.archive.org/web/2019*/http://setup.roblox.com/version-d758ba82bfa54461-RCCService2AFBA34ACD542E96B3890871CBA18F43.zip <br><br>
 # STILL UNFINISHED!
 la do not murder me for this i have kids
