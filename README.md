@@ -77,4 +77,7 @@ https://web.archive.org/web/2019*/http://setup.roblox.com/version-d758ba82bfa544
 https://web.archive.org/web/2019*/http://setup.roblox.com/version-d758ba82bfa54461-RCCService2AFBA34ACD542E96B3890871CBA18F43.zip <br>
 another version of RCCService2AFBA34ACD542E96B3890871CBA18F43.zip: http://setup.roblox.com/RCCService2AFBA34ACD542E96B3890871CBA18F43.zip <br><br>
 # STILL UNFINISHED!
-la do not murder me for this i have kids
+la do not murder me for this i have kids <br><br>
+### Note
+- Charapp doesn't work on 2017RCCs or older, unless you used a solution.
+- 2018+ RCCs will logs your ip and history, and can get your ROBLOX account in trouble.
