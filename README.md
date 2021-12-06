@@ -72,12 +72,12 @@ end
 ```
 As a side note, hosting game servers are basically useless since you can't join them on any clients. This is basically something fun to mess around with. Unless you decide to use it as a thumbnail renderer for your revival like Dshoe10 and I do.
 Also can I get some thumbs up pls? I've had like three people DM me on Discord thanking me for this along with asking questions, but I've had no one rating the post.<br><br>
-# Archive of the RCCs in this repo:
-https://web.archive.org/web/2019*/http://setup.roblox.com/version-d758ba82bfa54461-RCC-RobloxAB1FEC8F0BB9C736E1454364EA6D7D38.exe <br>
-https://web.archive.org/web/2019*/http://setup.roblox.com/version-d758ba82bfa54461-RCCService2AFBA34ACD542E96B3890871CBA18F43.zip <br>
-another version of RCCService2AFBA34ACD542E96B3890871CBA18F43.zip: http://setup.roblox.com/RCCService2AFBA34ACD542E96B3890871CBA18F43.zip <br><br>
+
 # STILL UNFINISHED!
 la do not murder me for this i have kids <br><br>
 ### Note
 - Charapp doesn't work on 2017RCCs or older, unless you used a solution.
 - 2018+ RCCs will logs your ip and history, and can get your ROBLOX account in trouble.
+# Credit
+gSOAP implementation by Yakov <br>
+charapp by itteh(?)
